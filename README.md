@@ -1,6 +1,6 @@
 # Layerd Pos With Maven and hibernate Spring
 
-Parking App project for dealing with Car parking
+This is helps to understand maven,Hibernate and spring
 
 
 ## Database
