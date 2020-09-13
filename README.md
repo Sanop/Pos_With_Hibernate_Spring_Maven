@@ -1,11 +1,16 @@
-# Layerd Pos With Maven and hibernate Spring
+# POS With Hibernate Spring Maven
 
-This is helps to understand maven,Hibernate and spring
+Implement pos system with Hibernate SPring maven
 
+## Other POS Projects
 
-## Database
+[Pos_With_Servlet](https://github.com/Sanop/POS_with_Servlet)
 
-Find Database Configuration From src/Database, & set your Database Password
+[Pos_Maven_Hibernate_and_Spring_are_Connect](https://github.com/Sanop/pos_Maven-Hibernate-and-Spring-are-Connect-)
+
+[Pos_Maven_Hibernate](https://github.com/Sanop/pos_Maven_Hibernate)
+
+[Pos_With_DAO](https://github.com/Sanop/POS_With_DAO)
 
 
 ## Contributing
